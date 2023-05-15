@@ -12,7 +12,7 @@ src="https://raw.githubusercontent.com/gist/deepakbhamla/acd63578b13556b01c3fa9a
 
 - 📫 How to reach me **priyam9maini@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://online.flippingbook.com/view/287718852/)
+<!-- - 📄 Know about my experiences [My Resume](https://online.flippingbook.com/view/287718852/) -->
 
 - ⚡ Fun fact **A gamer and badminton player.**
 
