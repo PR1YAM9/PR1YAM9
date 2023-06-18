@@ -26,4 +26,3 @@ src="https://raw.githubusercontent.com/gist/deepakbhamla/acd63578b13556b01c3fa9a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr1yam9&show_icons=true&locale=en&layout=compact" alt="pr1yam9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr1yam9&show_icons=true&locale=en" alt="pr1yam9" /></p>
