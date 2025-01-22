@@ -19,7 +19,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/priyam-maini-9730a419b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyam maini" height="30" width="40" /></a>
-<a href="https://x.com/priyam9maini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="priyam maini" height="30" width="40" /></a>
+<!-- <a href="https://x.com/priyam9maini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="priyam maini" height="30" width="40" /></a> -->
 </p>
 
 
