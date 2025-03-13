@@ -6,7 +6,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pr1yam9&label=Profile%20views&color=0e75b6&style=flat" alt="pr1yam9" /> </p>
 
-- 🔭 I’m currently working on **NextJs and MERN**
+- 🔭 I’m currently working on **Angular, Spring Boot & Neo4j**
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
